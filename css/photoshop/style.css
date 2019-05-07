@@ -1,0 +1,26 @@
+/*div {
+	width: 10px;
+	float: left;
+}*/
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	text-align: left;
+	font-family: "Raleway";
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+
+	width: 96.68%;
+	border-bottom: 3px solid #F0F0F0;
+	padding-bottom: 20px;
+}
+/*#one {
+
+}*/

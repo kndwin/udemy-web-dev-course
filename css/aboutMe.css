@@ -1,0 +1,27 @@
+h1 {
+	color: #FF8000;/*
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 1px dashed purple;
+}
+
+h2 {
+	color: darkblue;
+	background: rgb(255,100,80);
+}
+
+li {
+	color: rgb(68,0,100);
+}
+
+h4{
+	color: darkgreen;
+}
+
+body {
+	background: gray;
+/*	background: url(https://thumbs.dreamstime.com/b/wood-texture-sketch-grain-cover-surface-wooden-fibers-vector-background-114961064.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
